@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Oh, ya' know. Just another incredibly awesome lib for wrangling type checks. Only, vanilla JS API by default. Supports TypeScript though!",
   "author": "Branden Dane <Dane@TheoryLabs.dev> (https://TheoryLabs.dev)",
+  "repository": "https://github.com/TheoryLabs/Structs.git",
   "license": "MIT",
   "private": false,
   "main": "src/index.js",
