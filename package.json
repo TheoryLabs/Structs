@@ -1,0 +1,14 @@
+{
+  "name": "@theorylabs/structs",
+  "version": "0.0.1",
+  "description": "Oh, ya' know. Just another incredibly awesome lib for wrangling type checks. Only, vanilla JS API by default. Supports TypeScript though!",
+  "author": "Branden Dane <Dane@TheoryLabs.dev> (https://TheoryLabs.dev)",
+  "license": "MIT",
+  "private": false,
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "superstruct": "^0.15.2"
+  }
+}
